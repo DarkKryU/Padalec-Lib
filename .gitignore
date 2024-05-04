@@ -1,0 +1,49 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+*.manifest
+*.spec
+*.egg-info
+*.dist-info
+*.egg-info
+*.egg-info/
+*.dist-info/
+*.dist-info/*
+*.egg-info/*
+*.egg/*
+*.pyinstaller/
+
+# IDE specific
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+*.bak
+*.swp
+
+# Virtual environments
+venv/
+env/
